@@ -1,4 +1,7 @@
 # 원동식 강사님 강의
+강의자료
+[day1_lecture.pdf](https://github.com/user-attachments/files/21570040/day1_lecture.pdf)
+
 ## 1교시 칼만필터
 
 ### 칼만필터 동작원리
