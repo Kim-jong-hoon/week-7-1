@@ -30,3 +30,6 @@
 
 ### 2교시 요약 및 핵심 정리
 <img width="968" height="687" alt="화면 캡처 2025-08-04 103004" src="https://github.com/user-attachments/assets/ad0ebf28-77a7-4606-9148-f70d1960b14b" />
+
+### 2교시 실습 
+<img width="982" height="722" alt="32" src="https://github.com/user-attachments/assets/48dbe477-b71a-4ad5-bf08-ffa4513660c6" />
